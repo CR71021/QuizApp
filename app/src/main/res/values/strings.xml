@@ -1,39 +1,41 @@
 <resources>
     <string name="app_name">Quiz App</string>
     <!--Questions-->
-    <string name="question1">"Acura is the luxury brand of what manufacturer?"</string>
-    <string name="question2">Volkswagen owns</string>
-    <string name="question3">What is the motorsports and performance division of Nissan?</string>
-    <string name="question4">Infiniti is the luxury brand of</string>
-    <string name="question5">What is the fastest production car?</string>
+    <string name="question1">"Logarithm tables were invented by"</string>
+    <string name="question2">"Which of the followings are Operating Systems"</string>
+    <string name="question3">i pad is manufactured by</string>
+    <string name="question4">WWW stands for</string>
+    <string name="question5">A Bit Stands for</string>
 
 
     <!--Answers for question1-->
-    <string name="q1Incorrect1">"Infiniti"</string>
-    <string name="q1Incorrect2">"Subaru"</string>
-    <string name="q1Incorrect3">"Mitsibishi"</string>
-    <string name="q1correct">"Honda"</string>
+    <string name="q1Incorrect1">"John Doe"</string>
+    <string name="q1Incorrect2">"John Harrison"</string>
+    <string name="q1Incorrect3">"John Douglas"</string>
+    <string name="q1correct">"John Napier"</string>
 
     <!--Answer for question2-->
-    <string name="q2correct1">"Audi"</string>
-    <string name="q2correct2">"Bentley"</string>
-    <string name="q2correct3">"Bugatti"</string>
-    <string name="q2Incorrect">"Lexus"</string>
+    <string name="q2correct1">"Windows"</string>
+    <string name="q2correct2">"Linux"</string>
+    <string name="q2correct3">"iOS"</string>
+    <string name="q2Incorrect">"Opera"</string>
 
 
     <!--Answer for question3-->
-    <string name="q3correct">"Nismo"</string>
+    <string name="q3correct">"Apple"</string>
 
     <!--Answer for question4-->
-    <string name="q4correct1">"Nissan"</string>
-    <string name="q4Incorrect1">"Subaru"</string>
-    <string name="q4Incorrect2">"Mitsibishi"</string>
-    <string name="q4Incorrect3">"Lexus"</string>
+    <string name="q4correct1">"World Wide Web"</string>
+    <string name="q4Incorrect1">"World Worm Web"</string>
+    <string name="q4Incorrect2">"World Word Web"</string>
+    <string name="q4Incorrect3">"None of the above"</string>
 
     <!--Answer for question5-->
-    <string name="q5Incorrect1">"Ferrari 458"</string>
-    <string name="q5Incorrect2">"Lamborghini Aventador"</string>
-    <string name="q5correct">"Bugatti Veyron"</string>
-    <string name="q5Incorrect3">"Lexus Lfa"</string>
+    <string name="q5Incorrect1">" Binary Deci"</string>
+    <string name="q5Incorrect2">" Binary Data"</string>
+    <string name="q5correct">"Binary Digit"</string>
+    <string name="q5Incorrect3">" Binary Storage"</string>
 
 </resources>
+
+
